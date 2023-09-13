@@ -1,0 +1,53 @@
+.ArticleDisplay {
+  position: fixed;
+  background-color: #292525c4;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ArticleDisplay .ArticleContainer {
+  width: 60rem;
+  margin: 2rem;
+  background-color: white;
+  border-radius: 2rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.ArticleDisplay .ArticleContainer h2 {
+  color: gray;
+  font-family: Inter;
+}
+
+.ArticleDisplay .ArticleContent {
+  max-height: 60vh;
+  overflow-y: scroll;
+}
+
+.ArticleDisplay .ArticleContentParagraph {
+  margin-bottom: 1rem;
+}
+
+.ArticleDisplay .ArticleContentList {
+  margin-bottom: 1rem;
+  background-color: red;
+}
+
+.ArticleDisplay button {
+  background: #e68e86;
+  color: white;
+  border: none;
+  padding: 0.6rem;
+  border-radius: 1rem;
+  font: inherit;
+  cursor: pointer;
+  width: 100%;
+  margin-top: 1rem;
+}

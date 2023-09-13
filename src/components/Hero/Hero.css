@@ -1,0 +1,51 @@
+.Hero {
+  height: 500px;
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.55) 0.05%,
+    rgba(0, 0, 0, 0.23) 38.73%,
+    rgba(0, 0, 0, 0) 73.75%
+  );
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Hero .LogoContainer {
+  top: 1rem;
+  left: 1.4rem;
+  position: absolute;
+}
+
+.Hero img.logo {
+  height: 1.6rem;
+}
+
+.HeroContent {
+  max-width: 50rem;
+  padding: 2rem;
+}
+
+.Hero h1 {
+  font-family: Poppins;
+  color: white;
+  text-align: center;
+  font-size: 3rem;
+  line-height: 3.8rem;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.Hero h2 {
+  font-family: Inter;
+  color: white;
+  text-align: center;
+  font-size: 1.25rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}

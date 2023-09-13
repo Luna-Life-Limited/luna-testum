@@ -1,0 +1,15 @@
+.CategorySelector {
+  display: flex;
+  justify-content: space-between;
+  overflow-y: scroll;
+  padding-top: 0.5rem;
+  padding-bottom: 1rem;
+}
+
+.CategoryOption {
+  background-color: white;
+  margin: 1rem;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  flex-shrink: 0;
+}

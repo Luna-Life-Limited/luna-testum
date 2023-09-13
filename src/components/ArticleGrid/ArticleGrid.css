@@ -1,0 +1,40 @@
+.ArticleGrid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.ArticleGridCell {
+  background-color: white;
+  border-radius: 2rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-bottom: 2rem;
+  padding: 1.4rem;
+  width: 20rem;
+}
+
+.ArticleGridCellImage {
+  width: 100%;
+  height: 18rem;
+  border-radius: 1.2rem;
+  object-fit: cover;
+  object-position: center;
+}
+
+.ArticleGridCell h4 {
+  color: gray;
+  font-family: Inter;
+}
+
+.ArticleGridCell button {
+  background: #e68e86;
+  color: white;
+  border: none;
+  padding: 0.6rem;
+  border-radius: 1rem;
+  font: inherit;
+  cursor: pointer;
+  width: 100%;
+}

@@ -1,0 +1,3062 @@
+{
+  "categories": [
+    { "id": "4636807", "title": "Skin & skincare", "color": "#EAB99B" },
+    { "id": "4636809", "title": "Relationships", "color": "#BDDEDE" },
+    { "id": "4636812", "title": "Confidence & motivation", "color": "#F1A7B9" },
+    { "id": "4636813", "title": "Periods & hormones", "color": "#C2AAD6" },
+    {
+      "id": "4636814",
+      "title": "Navigating difficult scenarios",
+      "color": "#B8E0D4"
+    },
+    { "id": "4636816", "title": "Sex & sexual health", "color": "#FABF89" },
+    {
+      "id": "4636820",
+      "title": "Mental health & well-being",
+      "color": "#B4D7F2"
+    },
+    { "id": "4636821", "title": "Female health", "color": "#B5D8BA" },
+    {
+      "id": "58228956",
+      "title": "luna updates & community",
+      "color": "#6FCDD2"
+    }
+  ],
+  "articles": [
+    {
+      "id": "180957138",
+      "title": "Results day: celebration ideas",
+      "subtitle": "7 ideas to help you make the most of it 💃🏽",
+      "categories": ["4636820", "4636809"],
+      "imageUrl": "https://www.datocms-assets.com/79195/1690973548-dscf2363.jpg?w=500",
+      "originalPublishDate": "2023-08-10T20:00:00+01:00",
+      "content": [
+        {
+          "content": [{ "text": "Quick summary ✍️", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "1️⃣ You deserve this", "type": "bold-text" },
+            {
+              "text": ": you might be feeling overwhelmed thinking about results day, but it’s a good idea to plan some time to celebrate your hard work before moving to your next chapter 💪",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "2️⃣ Pick activities you love: ", "type": "bold-text" },
+            {
+              "text": "whether it’s a meal out with friends or family, a picnic in the park, the cinema, or buying yourself something special. It’s your day, so enjoy it ✨",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "3️⃣ Organise a separate day too", "type": "bold-text" },
+            {
+              "text": ": belated celebrations are also a good idea, just in case the day doesn’t go as planned for you or your friends. Everyone deserves to enjoy a day to celebrate the end of this stressful period ❤️",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "--------------------------------------------",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Regardless of how well you do on results day, it’s a great idea to celebrate your ",
+              "type": "plain-text"
+            },
+            { "text": "hard work and achievements", "type": "bold-text" },
+            {
+              "text": " before moving onto the next chapter 🤩 So luna’s put together some ideas for you, to make sure it’s a time to remember:  ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "🍽", "type": "plain-text" },
+            {
+              "text": "Go out for food with your friends:",
+              "type": "bold-text"
+            },
+            {
+              "text": " it’s always nice to celebrate with good food, and even better with all your friends together in one place! Lots of places also offer freebies or discounts on results day, so keep an eye out for these 👀",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "🌞", "type": "plain-text" },
+            { "text": "Have a picnic in the park", "type": "bold-text" },
+            {
+              "text": " (weather and hayfever permitting!): this is a really cute idea to make the most of the summer and spend some time in nature 💐 Each person can be responsible for bringing something different, and you can even do an activity",
+              "type": "plain-text"
+            },
+            { "text": " ", "type": "bold-text" },
+            {
+              "text": "together, whether that’s card games 🃏painting 🎨 or a water fight 💦",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "🛍Treat yourself", "type": "bold-text" },
+            {
+              "text": ": this can be something you’ve been eyeing up for a while and can be anything - makeup, clothes, an experience! You deserve to spoil yourself, and whatever you buy will always serve as a nice memory of your results day celebrations 🥳",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "🎞", "type": "plain-text" },
+            { "text": "Go the cinema", "type": "bold-text" },
+            {
+              "text": ": if there’s a film you’ve been wanting to see for a while, now’s the time! You can take your friends or go solo, and go all out on the popcorn and nachos 🍿",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "💃🏽", "type": "plain-text" },
+            { "text": "Pick an activity to do together", "type": "bold-text" },
+            {
+              "text": ": there’s so many options to pick from. Whether you go to the arcade, bowling, roller skating, laser quest –  anything! ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "🏠", "type": "plain-text" },
+            {
+              "text": "Enjoy an evening meal with your family",
+              "type": "bold-text"
+            },
+            {
+              "text": ": whether you go out or stay in, you might like to celebrate with your family too! Especially if they’ve had your back",
+              "type": "plain-text"
+            },
+            { "text": " ", "type": "bold-text" },
+            {
+              "text": "throughout exam season, it’ll be nice to spend some quality time with them and celebrate your successes together 🤗",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "👥", "type": "plain-text" },
+            {
+              "text": "Organise a separate day out with your friends",
+              "type": "bold-text"
+            },
+            {
+              "text": ": belated celebrations are also an option. And if the day doesn’t go to plan for you or your friends, celebrating on the day is the last thing you’ll want to do. So once things have settled down, try and make time to enjoy a day with your friends before moving onto the next chapter ❤️",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ]
+    },
+    {
+      "id": "180958366",
+      "title": "Explaining eye bags",
+      "subtitle": "Causes behind dark circles + treatment 💜",
+      "categories": ["4636807", "4636796"],
+      "imageUrl": "https://www.datocms-assets.com/79195/1690973698-pexels-anna-shvets-4557831.jpg?w=500",
+      "originalPublishDate": "2023-08-12T20:00:00+01:00",
+      "content": [
+        {
+          "content": [{ "text": "Quick summary 📝", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "1️⃣ Eye bags are puffy, dark areas under the eyes",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "2️⃣ Eye bags can be caused by various factors, including diets high in salt, allergies, medical conditions, genetics, ageing, and sun exposure",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "3️⃣ There are lifestyle changes that may help to reduce the appearance of eye bags, such as drinking plenty of water, using a cold compress, getting enough sleep, experimenting with makeup, and using caffeine-based products",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "4️⃣ It's important to embrace body positivity and not feel self-conscious about eye bags, as they are normal and common",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "--------------------------------------------",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Eye bags are usually described as puffy, dark areas underneath the eyes 👀They don’t generally carry any risk to your vision, but many people are bothered by them because they worry it makes them look more tired or unhealthy 💡",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "luna’s all about body positivity, so it’s important to know that this is a social perception and isn’t true 🙅 That being said, we know lots of you want ways to help reduce how they look because of this – thanks to your questions via ",
+              "type": "plain-text"
+            },
+            { "text": "Ask", "type": "bold-text" },
+            { "text": " luna 🙌🏽", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "So, what causes eye bags?", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Most people think that eye bags are only caused by lack of sleep and stress. But that’s actually not true! ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "There are lots of things that can cause eye bags, including: ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "content": [
+                { "text": "Diets high in salt:", "type": "bold-text" },
+                {
+                  "text": " this is because salt causes water to be retained in the body, and this can change the appearance of skin ",
+                  "type": "plain-text"
+                },
+                { "text": "🧂", "type": "bold-text" }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Allergies: ", "type": "bold-text" },
+                {
+                  "text": "this isn’t always the case, but puffiness due to allergies like hay fever can often cause eye bags to develop ",
+                  "type": "plain-text"
+                },
+                { "text": "🤧", "type": "bold-text" }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Medical conditions", "type": "bold-text" },
+                {
+                  "text": ": some conditions like thyroid problems can cause bags under the eyes to develop 🏥",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Genetics", "type": "bold-text" },
+                {
+                  "text": ": if your parents are prone to eye bags, this can make you more likely to experience the same. You aren’t definitely going to have eye bags just because of this, though 🧬",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Ageing", "type": "bold-text" },
+                {
+                  "text": ": as we grow older, our skin loses its firmness and becomes more ‘saggy’ in appearance - this is a totally normal process that happens as we get older 👵",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Sun exposure", "type": "bold-text" },
+                {
+                  "text": ": too much sun can damage certain proteins, like the collagen and elastin, in your skin ☀️",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "bullet-list"
+        },
+        {
+          "content": [
+            {
+              "text": "How can you reduce the appearance of eye bags at home? ",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "First things first, it’s important to know that ",
+              "type": "plain-text"
+            },
+            { "text": "eye bags are common", "type": "bold-text" },
+            { "text": " and ", "type": "plain-text" },
+            { "text": "completely normal", "type": "bold-text" },
+            {
+              "text": ". You should never feel self-conscious about them or that you need to do something to get rid of them 💗Because there are some causes of eye bags that are totally out of our control (like genetics), ",
+              "type": "plain-text"
+            },
+            {
+              "text": "it’s not always possible to make them disappear",
+              "type": "bold-text"
+            },
+            { "text": ". ", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "If you do want to do something to reduce the appearance of your eye bags ✨there are some lifestyle changes that might help, although none are quick fixes 💚 ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [{ "text": "These include: ", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "content": [
+                { "text": "Drink plenty of water: ", "type": "bold-text" },
+                {
+                  "text": "eyes can look puffier and more noticeable when you’re dehydrated. The NHS recommends drinking at least 6-8 glasses of water each day to keep your skin healthy and hydrated",
+                  "type": "plain-text"
+                },
+                { "text": "💧", "type": "bold-text" }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Using a cold compress:", "type": "bold-text" },
+                {
+                  "text": " this basically means anything you’d keep in the fridge or freezer 🧊Common examples are a bag of peas, cucumber slices, or an ice pack. You can even use a spoon if you leave it in the fridge for an hour or two! Just place it lightly over your eyes for a few minutes 🙌🏽 ",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                {
+                  "text": "Make sure you’re getting enough sleep: ",
+                  "type": "bold-text"
+                },
+                {
+                  "text": "whilst sleep is not the only cause of eye bags, making sure you’re getting a restful sleep can help to improve their appearance. luna has loads of top tips for this in ",
+                  "type": "plain-text"
+                },
+                { "text": "Learn", "type": "bold-text" },
+                { "text": " ", "type": "plain-text" },
+                { "text": "💤", "type": "bold-text" }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Experiment with makeup: ", "type": "bold-text" },
+                {
+                  "text": "if your eye bags bother you, you could always try using a concealer to cover them up. Choose a concealer one shade lighter than your foundation for a light, refreshed look ✨",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Caffeine:", "type": "bold-text" },
+                {
+                  "text": " this helps with eye bags as it narrows the blood vessels - it can be found in some eye creams for reducing puffiness, but you can also make your own by using soaked tea-bags which have spent some time in the fridge ☕️",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "bullet-list"
+        },
+        {
+          "content": [
+            {
+              "text": "luna hopes you found this content useful – remember, you can always ",
+              "type": "plain-text"
+            },
+            { "text": "Ask", "type": "bold-text" },
+            {
+              "text": " luna if you have a question or ",
+              "type": "plain-text"
+            },
+            { "text": "Learn", "type": "bold-text" },
+            { "text": " more on the app 💖", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        }
+      ]
+    },
+    {
+      "id": "180958420",
+      "title": "The different types of contraception",
+      "subtitle": "Breaking down birth control 💛",
+      "categories": ["4636816"],
+      "imageUrl": "https://www.datocms-assets.com/79195/1690974722-2.png?w=500",
+      "originalPublishDate": "2023-08-14T20:00:01+01:00",
+      "content": [
+        {
+          "content": [{ "text": "Quick summary 📝", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "1️⃣ Contraception, or birth control, prevents pregnancy during sexual activity and reduces the risk of STIs",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "2️⃣ Various types of contraception are available, both hormonal and non-hormonal methods",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "3️⃣ Each method works differently, and individuals should consider their preferences and lifestyle before choosing one",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "4️⃣ To make an informed decision, consult a GP or Sexual Health Clinic for a more detailed discussion about the available options",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "--------------------------------------------",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "It’s important and helpful to understand what contraception is and make an informed decision about which method is right for you if or when you choose to use it. So, here’s an overview of what contraception is and which types are available 🙌🏽",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "What is contraception? ", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Contraception is another way of saying “birth control”, which is basically any method that stops a pregnancy from happening. It allows people to have safe sex, with a much lower risk of becoming pregnant 💡 ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [{ "text": "Why do we need it?", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "As mentioned, contraception is important when having sex if you don’t want to have a baby 🙅‍♀️ ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Some types of contraception are also protective against sexually transmitted infections (STIs), because they act as a physical barrier 🛑 And most methods of contraception don’t affect your future fertility (ability to have a baby) ❤️ ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "What types of contraception are there? ",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "There are ", "type": "plain-text" },
+            { "text": "lots", "type": "bold-text" },
+            {
+              "text": " of options for contraception, and they all work in slightly different ways. So luna’s got a general overview of each one below.",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [{ "text": "💛Condoms", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "These are one of the most commonly used methods, because they are easy to use, form a physical barrier (so also protect from STIs) and don’t tend to cause side effects – unlike any hormonal methods, which might affect a person’s mood, appetite or skin",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [{ "text": "💛“The pill” ", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "This is actually an umbrella term for multiple types of pill which work by affecting the hormones of a menstruator, stopping them from allowing a pregnancy.",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "The hormones they affect are progesterone and oestrogen, which are two of the most important hormones in a menstruator’s cycle.",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "These pills can also be used for other things like period control, some reproductive illnesses, and acne, but they have potential side effects which some people experience including mood swings and breast tenderness. They also have to be taken reliably 🫡",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [{ "text": "💛Implant", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "An implant is a short rod which is injected just below the surface of the skin, usually in the arm, which gradually releases progesterone, meaning fertilisation (when the egg meets a sperm) isn’t able to happen.",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "It needs to be replaced by a medical professional every 3 years.",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [{ "text": "💛“The coil”", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "It’s essentially a small coil that’s inserted into the womb (uterus) and controls implantation, which is when an embryo attaches to the uterus to grow. ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "This either releases hormones or copper, depending on which type is given.",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "These need replaced every 5 or 10 years, depending on the type 💡",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [{ "text": "💛 “The injection”", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "The injection provides a slow release of progesterone which prevents ovulation (the release of an egg each month).",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "It’s given between every 8-13 weeks depending on the type of injection used, usually into the bottom, thigh or upper arm.",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "It’s important to know that with this method of contraception, it can take up to a year before your periods return to normal and you are able to become pregnant.",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [{ "text": "💛Patch", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "This is like a sticker that releases hormones through the skin and lasts for 1 week before needing changing.",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "It can go onto most areas of the body (except breasts and anywhere sensitive or irritated), as long as it’s clean and isn’t likely to be rubbed off! ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [{ "text": "💛Vaginal rings", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "This is a small silicone ring which releases hormones to prevent pregnancy. It lasts for a month before it needs to be changed.",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Rings are often not used completely correctly, so they should be used alongside a spermicide (a chemical which kills sperm).",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [{ "text": "💛Diaphragms", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "This is sometimes called a ‘cap’ and is a thin, silicone dome which is inserted into the vagina before sex. Diaphragms can often be used wrong, so are usually used with a spermicide too! ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "💛", "type": "plain-text" },
+            { "text": "Sterilisation", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "This is essentially a surgical process which makes it impossible to become pregnant. It exists for menstruators and non-menstruators, but it’s slightly different.",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "For menstruators, the fallopian tubes (the tubes which the eggs travel down towards the uterus) are ‘tied’ so the egg can’t pass.",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "For non-menstruators, a ‘vasectomy’ cuts the tube which sperm travels through, so the semen doesn’t contain sperm. Because these are ",
+              "type": "plain-text"
+            },
+            { "text": "permanent", "type": "bold-text" },
+            {
+              "text": ", they’re generally not used unless someone is past the age they might want to have children.",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Whichever method of contraception you’re on, or looking to try, luna wants to make sure you know about all the options available – as ",
+              "type": "plain-text"
+            },
+            {
+              "text": "there isn’t one perfect, or one-size-fits-all, choice",
+              "type": "bold-text"
+            },
+            { "text": ". ", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "If you’d like to change yours, or start on one, the next steps would be visiting your GP or a Sexual Health Clinic to discuss your options in more detail. ",
+              "type": "plain-text"
+            },
+            { "text": "Don’t be afraid to ask questions", "type": "bold-text" },
+            {
+              "text": " – you are in control of your own body, and should feel empowered in whatever choice you make 💜✨",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ]
+    },
+    {
+      "id": "180958471",
+      "title": "Is it a light, medium or heavy period?",
+      "subtitle": "How to tell the difference 🩸",
+      "categories": ["4636813"],
+      "imageUrl": "https://www.datocms-assets.com/79195/1690975120-dscf2588.jpg?w=500",
+      "originalPublishDate": "2023-08-16T15:00:00+01:00",
+      "content": [
+        {
+          "content": [{ "text": "Quick summary 📝", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "1️⃣ It's difficult to define \"light,\" \"medium,\" and \"heavy\" periods as everyone's experience varies",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "2️⃣ Light bleeding is less than 1 pad or tampon soaked in 3+ hours, while medium bleeding is more than 1 pad or tampon soaked in 2-3 hours",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "3️⃣ Heavy/severe bleeding, where products need to be changed every 1-2 hours, is not considered normal, and medical advice should be sought",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "4️⃣ If periods become significantly heavier, stop altogether, or are accompanied by bleeding between periods or severe pain, it's also important to consult a GP",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "5️⃣ Tracking your period helps recognise changes from your normal and allows for timely intervention and maintaining well-being",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "--------------------------------------------",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "There is a lot of information out there, and people discuss having a \"heavy\" or \"light\" period without really knowing what it means. When it comes to period talk, luna wants you to know how to work out what is normal, when to seek help and to be able to track your periods accurately 🫶 ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "So let’s get into it…", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "How heavy is your period? ", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "It’s really difficult to know what “light”, “medium” and “heavy” mean when it comes to periods because everyone experiences a range so actually ",
+              "type": "plain-text"
+            },
+            {
+              "text": "there are no universally agreed definitions 💯",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "As a rough guide it’s useful to think of these “levels” of heaviness: ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "🩸 Minimal/\"spotting\":", "type": "bold-text" },
+            {
+              "text": " this is generally just a few drops of blood. If you want to know more about spotting, you can read about it in ",
+              "type": "plain-text"
+            },
+            { "text": "Learn", "type": "bold-text" },
+            { "text": " 🔗💡 ", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "🩸🩸Light:", "type": "bold-text" },
+            {
+              "text": " with light bleeding, the blood soaks up less than 1 pad or tampon in 3+ hours",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "🩸🩸🩸Medium", "type": "bold-text" },
+            {
+              "text": ": this means you’re soaking more than 1 pad or tampon in 2-3 hours",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "🩸🩸🩸🩸Heavy/Severe", "type": "bold-text" },
+            {
+              "text": ": severe bleeding is generally considered soaking one tampon or pad in 1 or 2 hours",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "When is bleeding not normal? ", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Severe bleeding, where you need to change your period products every 1-2 hours, is not considered normal 🙅If you experience this, luna advises you speak to a GP for personalised advice, as some tests or medications may be helpful 🩺",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [{ "text": "If you notice…", "type": "plain-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "content": [
+                {
+                  "text": "your periods become a lot heavier",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "your periods stop altogether", "type": "plain-text" }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                {
+                  "text": "you’re bleeding between periods",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                {
+                  "text": "or even though they’re not as bad as the above, they are so heavy or painful that they affect your day-to-day life",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "bullet-list"
+        },
+        {
+          "content": [
+            {
+              "text": "then please reach out to a GP as well – there are lots of things out there which can help with these issues, so you can continue your usual activities 🥰 ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Why is tracking your period important? ",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Every menstruator has a slightly different period experience and each individual’s “normal” is slightly different 🤷‍♀️Tracking your period is really important because it helps to recognise when there’s a change to your normal. This means that if things change, you can recognise when to seek help and work with your body to stay well 🌻 ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Remember, luna’s period tracking feature is a great way to stay in touch with your body, and you can even track your moods and pain as well as your flow. Happy tracking 💖",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ]
+    },
+    {
+      "id": "180968054",
+      "title": "Top tips for your teeth",
+      "subtitle": "How to maintain a healthy smile 😀",
+      "categories": ["4636821"],
+      "imageUrl": "https://www.datocms-assets.com/79195/1690975750-dscf2857.jpg?w=500",
+      "originalPublishDate": "2023-09-12T20:00:00+01:00",
+      "content": [
+        {
+          "content": [{ "text": "Quick summary 🦷", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "1️⃣ Regular tooth brushing (", "type": "plain-text" },
+            { "text": "twice a day for 2 minutes", "type": "bold-text" },
+            {
+              "text": ") with fluoride toothpaste is super important. Fluoride mouthwash and floss are also important parts of a good oral hygiene routine 💪",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "2️⃣ ", "type": "plain-text" },
+            { "text": "Diet ", "type": "bold-text" },
+            {
+              "text": "plays a big role too so maintain a healthy diet – eat high sugar foods in moderation",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "3️⃣ Regular check-up appointments with a ",
+              "type": "plain-text"
+            },
+            { "text": "dentist", "type": "bold-text" },
+            {
+              "text": " are really important to monitor tooth decay, gum disease, or other dental issues. Generally, it’s best to book an appointment",
+              "type": "plain-text"
+            },
+            { "text": " every 6 months 📆", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "--------------------------------------------",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Learning how to care for your health is an important part of growing up, and caring for your teeth and oral health is no different! luna is here to help you keep your teeth shining 🦷✨",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "luna’s guide to brushing your teeth: ",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [{ "text": "⏱ How often? ", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "As you probably know, brushing your teeth regularly is key to maintaining your mouth health. Regular tooth brushing helps reduce plaque (a film of bacteria which can gather on your teeth) and prevents tooth decay. ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "You should aim to brush your teeth at least ",
+              "type": "plain-text"
+            },
+            { "text": "twice a day for 2 minutes", "type": "bold-text" },
+            { "text": " with a ", "type": "plain-text" },
+            { "text": "fluoride", "type": "bold-text" },
+            { "text": " ", "type": "plain-text" },
+            { "text": "based toothpaste", "type": "bold-text" },
+            {
+              "text": ". Make sure to brush your gums and tongue too!",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "🪥 ", "type": "plain-text" },
+            { "text": "Which toothbrush? ", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "There are lots of different types of toothbrush, all varying in softness. Manual toothbrushes are often inexpensive and a effective way to clean your teeth. Electric toothbrushes can be used for a more thorough clean. They can, however, be expensive to buy and maintain. ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "In short, both types of toothbrush are effective ✅ ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "🌊 What about mouthwash?", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Using a fluoride mouthwash can be a great way to prevent tooth decay. However, ",
+              "type": "plain-text"
+            },
+            {
+              "text": "mouthwash shouldn’t be used straight after brushing your teeth",
+              "type": "bold-text"
+            },
+            {
+              "text": ", as this can wash away all the good fluoride that is coating your teeth after brushing. Try using mouthwash at a different time of day such as after lunch. ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "After using mouthwash, don’t eat or drink anything for 30 minutes afterwards",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [{ "text": "🧵 Should you floss?", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": " ", "type": "bold-text" },
+            {
+              "text": "After brushing your teeth, you should floss in between your teeth with an interdental brush, or with interdental floss. This will remove any excess food and bacteria which may be missed by a toothbrush. ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Some people may experience bleeding from the gums when flossing for the first time in a while, but as long as you’re not in pain and the bleeding stops quickly, there should be ",
+              "type": "plain-text"
+            },
+            { "text": "nothing to worry about", "type": "bold-text" },
+            {
+              "text": " ✨However, if you experience persistent bleeding gums, even after a few days of flossing, you should see your dentist for more advice",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "🥗 Diet is just as important! ", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Your diet is a very important part of maintaining your oral health 🍎An excess of high in sugar foods can contribute to tooth decay so as always, enjoy your sugary snacks and drinks",
+              "type": "plain-text"
+            },
+            { "text": " in moderation", "type": "bold-text" },
+            { "text": ".", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [{ "text": "🧑‍⚕️ Visit the dentist", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Even if you have no symptoms, it’s important to have ",
+              "type": "plain-text"
+            },
+            {
+              "text": "regular check-up appointments with a dentist",
+              "type": "bold-text"
+            },
+            {
+              "text": " to monitor tooth decay, gum disease, or other dental issues. Unless you’re told otherwise by your dentist, it’s best to make an appointment",
+              "type": "plain-text"
+            },
+            { "text": " every 6 months 📆", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "What to expect? ", "type": "bold-text" },
+            {
+              "text": "In this appointment, they will look at all of your teeth, and maybe carry out any maintenance treatment such as deep cleaning your teeth, or removing tartar (a hard version of plaque which is difficult to remove at home). ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Remember, if you have any tooth pain, persistent bleeding, or any damage caused by trauma to your mouth or teeth, you should make an urgent appointment with your dentist 📞",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "❤️ Other general tips…", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "content": [
+                { "text": "If your gums are bleeding, ", "type": "plain-text" },
+                {
+                  "text": "make sure you aren’t brushing your teeth too hard 🩸",
+                  "type": "bold-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                {
+                  "text": "If you vomit for any reason, ",
+                  "type": "plain-text"
+                },
+                {
+                  "text": "don’t immediately brush your teeth",
+                  "type": "bold-text"
+                },
+                {
+                  "text": " as this can cause further damage to the teeth: wait at least 30 minutes after vomiting 🤢",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                {
+                  "text": "If you’re experiencing bad breath, make sure you’re ",
+                  "type": "plain-text"
+                },
+                { "text": "flossing your teeth ", "type": "bold-text" },
+                { "text": "regularly and ", "type": "plain-text" },
+                {
+                  "text": "brushing or scraping your tongue",
+                  "type": "bold-text"
+                },
+                {
+                  "text": " to get rid of any bacteria missed by brushing alone 🦠",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "bullet-list"
+        },
+        {
+          "content": [
+            {
+              "text": "Caring for your teeth is slightly different when you have braces, so make sure to speak to your dentist in this case for more personalised advice 🦷🙌",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ]
+    },
+    {
+      "id": "180972937",
+      "title": "Explaining stopped or missed periods",
+      "subtitle": "Also known as “amenorrhea” 🩸",
+      "categories": ["4636813", "4636821"],
+      "imageUrl": "https://www.datocms-assets.com/79195/1690976713-screenshot-2023-08-02-at-12-45-01.png?w=500",
+      "originalPublishDate": "2023-09-10T20:00:01+01:00",
+      "content": [
+        {
+          "content": [{ "text": "Quick summary 📝", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "1️⃣ Amenorrhea is when periods stop coming, and there are 2 types: primary (when periods don't start by age 15) and secondary (when periods stop after starting normally)",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "2️⃣ Various factors can cause amenorrhea, including stress, obesity, weight loss, excessive exercise, contraception, pregnancy, menopause, endocrine disorders, and ovulation disorders like PCOS and endometriosis",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "3️⃣ You should visit a GP if you've missed more than 3 periods or haven't had your period by age 15, and give them info on your menstrual history and any changes",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "4️⃣ Further tests or specialist referrals may be needed to diagnose and address the underlying causes of irregular periods",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "--------------------------------------------",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Amenorrhea is the medical name for when your periods stop coming 🛑 Although there are some conditions and diseases which can cause this, there are also a lot of normal things which can cause you to miss periods or to make them stop altogether 💯 So luna’s here to explain what’s going on when you miss a period, what might be causing it, and when you should see a doctor 💡🥰",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "There are 2 types of amenorrhea that exist, primary and secondary:",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "What can cause amenorrhea? ", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "There are lots of things that can cause amenorrhea, since menstrual cycles depend so much on what the rest of the body is doing, including: ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "content": [
+                { "text": "Stress:", "type": "bold-text" },
+                {
+                  "text": " when the body is under stress, it diverts energy to the areas of the body that need it most, temporarily switching off the periods to conserve energy 💡",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Obesity:", "type": "bold-text" },
+                {
+                  "text": " excess fat leads to excess production of oestrogen, a hormone which is needed to be high at times and low at other times for a normal menstrual cycle 🌀",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                {
+                  "text": "Weight loss/excessive exercise:",
+                  "type": "bold-text"
+                },
+                {
+                  "text": " this is another form of stress placed on the body which can cause periods to stop 🛑",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Contraception:", "type": "bold-text" },
+                {
+                  "text": " many forms of contraception cause periods to stop due to their effects on the hormones controlling your period 💊",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Pregnancy:", "type": "bold-text" },
+                {
+                  "text": " this seems obvious, but there are some cases of people visiting their GP due to their periods stopping and finding out it’s because they’re pregnant! The body stops undergoing menstruation for most/all of a pregnancy as it’s not needed and more energy is needed to help the baby grow 🤰",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Menopause:", "type": "bold-text" },
+                {
+                  "text": " this is when periods stop permanently later on in a menstruator’s life. It’s completely natural and not something to be worried about 🤗",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Endocrine disorders", "type": "bold-text" },
+                {
+                  "text": ": problems with the pituitary, a small gland in the brain that controls lots of hormones throughout the body (including reproductive hormones) can be the cause of amenorrhea. Others include the thyroid, which is in your neck, and which controls the rate in which your cells make energy. Periods take up a lot of energy 🥱",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Ovulation disorders", "type": "bold-text" },
+                {
+                  "text": ": things like polycystic ovarian syndrome (PCOS) and endometriosis can cause amenorrhea. These work in slightly different ways, but all affect the reproductive system and can stop periods 🩸",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "bullet-list"
+        },
+        {
+          "content": [
+            { "text": "When should you speak to a GP?", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "luna wants to make sure you know when you should seek help! If you’ve missed ",
+              "type": "plain-text"
+            },
+            { "text": "more than 3 periods", "type": "bold-text" },
+            { "text": " or if you ", "type": "plain-text" },
+            {
+              "text": "haven’t had your period by age 15",
+              "type": "bold-text"
+            },
+            {
+              "text": ", you should visit your GP with the following information: ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "content": [
+                {
+                  "text": "How long you’ve missed periods for 🗓️",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                {
+                  "text": "When/if you got your period 🤔",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                {
+                  "text": "If your menstrual cycle has changed, what it was like beforehand 🔁",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                {
+                  "text": "Whether or not there’s a possibility you might be pregnant 🤰",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "bullet-list"
+        },
+        {
+          "content": [
+            {
+              "text": "Your GP might want to arrange further tests 🩺 or in some cases they might refer you to a specialist like a gynaecologist, who helps people with reproductive disorders, or an endocrinologist, who can help if you have problems with other hormones or glands that make them 🌻 ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ]
+    },
+    {
+      "id": "180976601",
+      "title": "Managing back-to-school anxiety",
+      "subtitle": "How to feel better about getting back 💛",
+      "categories": ["4636820"],
+      "imageUrl": "https://www.datocms-assets.com/79195/1690976977-dscf3049.jpg?w=500",
+      "originalPublishDate": "2023-08-23T20:00:02+01:00",
+      "content": [
+        {
+          "content": [{ "text": "Quick summary 📚", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "1️⃣ ", "type": "plain-text" },
+            { "text": "It’s ok to feel nervous", "type": "bold-text" },
+            {
+              "text": ": it’s completely natural to feel back-to-school anxiety and nervousness, especially if you’re starting a new school. Many others will be feeling exactly the same as you 💛",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "2️⃣ ", "type": "plain-text" },
+            {
+              "text": "Things you can do before school starts: ",
+              "type": "bold-text"
+            },
+            {
+              "text": "prepare yourself by planning out your uniform, stationary, and transport to school. You can also start changing your morning and evening routine slightly to make the transition easier from summer holidays to school time ✏️",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "3️⃣ ", "type": "plain-text" },
+            {
+              "text": "Things you can do when school starts: ",
+              "type": "bold-text"
+            },
+            {
+              "text": "get in touch with your teacher and ask them any questions you might have, they will be there to help you settle in and feel comfortable 🤝",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "--------------------------------------------",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Heading back to school, whether it’s a new school or the one you already go to, can bring up a lot of feelings, like ",
+              "type": "plain-text"
+            },
+            {
+              "text": "excitement, nervousness and anxiety",
+              "type": "bold-text"
+            },
+            { "text": " 💭 ", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "There are lots of things you might be feeling anxious about, such as seeing friends or having to make new ones, new workloads and classes, if your school has changed at all and fitting in. These are all completely",
+              "type": "plain-text"
+            },
+            { "text": " normal", "type": "bold-text" },
+            {
+              "text": " concerns and even though they might not look like it, most people will experience this at some point 💛Remember, there are ",
+              "type": "plain-text"
+            },
+            { "text": "ways to manage these feelings", "type": "bold-text" },
+            { "text": " 💪", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Tips for managing back-to-school anxiety: ",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "✍🏻Write down worries and fears: ", "type": "bold-text" },
+            {
+              "text": "if you’re finding your anxiety is overwhelming you, it can be helpful to write them down in a diary or journal. It can help to see your worries on paper and it can clear your head, so you’ve got the space to think of practical solutions ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "❓Ask your teachers questions: ", "type": "bold-text" },
+            {
+              "text": "whether you’re returning to the same school or starting a new one, it can be helpful to reach out to a teacher or member of staff. They will be able to answer your questions, arrange support for you and get you feeling comfortable. If you’re starting a new school, it might be possible for them to arrange a visit to the school to get yourself used to the environment",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "🎒Prepare in advance: ", "type": "bold-text" },
+            {
+              "text": "making sure you’re set up for school can help to ease anxiety. If you need to wear a uniform, make sure it fits you well and it’s clean and ironed before your first day. Pack your school bag with notebooks, pens and whatever else you’ll need - it might be nice to include something that relaxes you or brings you comfort too. It’s all a good idea work out how you’ll be getting to school too and whether you need to plan anything for it (e.g. if you need money for the bus 🚍) ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "What else should you do? ", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "⏰Set up a good routine: ", "type": "bold-text" },
+            {
+              "text": "getting into a good routine a few weeks before you go back to school can make those first weeks much easier! Try ",
+              "type": "plain-text"
+            },
+            { "text": "setting your alarm 15 minutes ", "type": "bold-text" },
+            {
+              "text": "earlier every week to get used to waking up early for school again. Tweak  your morning routine to include your essential activities like a healthy breakfast. Your evening routine is equally as important, as it will help you get a good sleep for the day ahead!",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "💬Reach out to friends: ", "type": "bold-text" },
+            {
+              "text": "it’s nice to reach out to your school friends before you head back. You could even ",
+              "type": "plain-text"
+            },
+            { "text": "arrange a hang-out", "type": "bold-text" },
+            {
+              "text": " to get together before school starts! Your friends might even be feeling similar so it can help to know you’re not alone. If you’re starting a new school, it might be worth seeing if there are any ",
+              "type": "plain-text"
+            },
+            {
+              "text": "pupils there who you could message",
+              "type": "bold-text"
+            },
+            {
+              "text": ". This way, you’ll have a few connections before your first day. ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "And, please don’t forget to: ", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "❤️Take care of your needs: ", "type": "bold-text" },
+            {
+              "text": "going back to school or starting a new one can be draining, so it’s important you’re taking care of yourself. Make sure you’re eating well, sleeping enough and enjoying some exercise 🏃🏻‍♀️ Your ",
+              "type": "plain-text"
+            },
+            {
+              "text": "mental health is just as important",
+              "type": "bold-text"
+            },
+            {
+              "text": ", and you can help it by doing fun activities, getting your thoughts out on paper or by talking to someone 🗣",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Returning to school after a break or starting at a new school can be daunting and nerve-wracking, but with some self-care, preparation and support, you can make your first few weeks back ",
+              "type": "plain-text"
+            },
+            { "text": "great", "type": "bold-text" },
+            { "text": " ones ✨", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        }
+      ]
+    },
+    {
+      "id": "180978712",
+      "title": "How to look forward to school",
+      "subtitle": "Top tips to change your mindset 🦋",
+      "categories": ["4636812"],
+      "imageUrl": "https://www.datocms-assets.com/79195/1690977125-dscf2608.jpg?w=500",
+      "originalPublishDate": "2023-08-30T20:00:00+01:00",
+      "content": [
+        {
+          "content": [{ "text": "Quick summary 📝", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "1️⃣ School may not always be fun, but taking positive action can make it more enjoyable",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "2️⃣ You can create a better mindset about school by focusing on the things you enjoy, setting measurable goals, and connecting with others",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "3️⃣ You can enhance your experience when at school by getting enough sleep, planning ahead, and taking part in school activities",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "4️⃣ It's normal to have off days, but by taking action you’ll end up feeling more motivated and engaged",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "--------------------------------------------",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Although getting an education is super important, school isn’t always fun – so it’s completely normal to have days when you just don’t want to go 😤",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "But rather than being filled with dread each week, wouldn’t it be great to feel more positive about school? It’d certainly make things easier! So, here are luna’s top tips to beat the Sunday Scaries:",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "Set a positive mindset: ", "type": "bold-text" },
+            {
+              "text": "start your day by thinking positively about school 🧠 Try to focus on the things you enjoy or look forward to, such as seeing your friends, learning new things, or taking part in extracurricular activities",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "Get enough sleep: ", "type": "bold-text" },
+            {
+              "text": "this is essential for feeling energised and motivated for the day ahead. Try to establish a consistent sleep routine that allows you to get enough rest 😴",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "Plan ahead: ", "type": "bold-text" },
+            {
+              "text": "this can help you feel more organised and in control. Prepare your bag, choose your outfit and accessories, and pack your lunch the night before so you can start your day with less stress 💪",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "Set goals: ", "type": "bold-text" },
+            {
+              "text": "setting goals can help you feel motivated and focused. Make sure they’re measurable (you can track their progress) and realistic, and keep them as small as you like – you can even check them off a list as you get through them 🎯",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "Get into school activities:", "type": "bold-text" },
+            {
+              "text": " things like clubs, sports, or volunteering can make school more enjoyable and rewarding 🤸 It can also help you meet new people and develop new skills 😊",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "Connect with others:", "type": "bold-text" },
+            {
+              "text": " socialising with classmates or teachers can help you feel more connected to school and make it more enjoyable. Try to get involved in class discussions, ask questions, or start conversations with your peers  💬",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Remember, it's normal to have days where you don't feel excited about school, but focusing on the positive aspects of your education can help you feel more motivated and engaged. Next time you’re experiencing the Sunday Scaries, have a think about making some of these small changes to help you to look forward to starting the school day 💖",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ]
+    },
+    {
+      "id": "189019291",
+      "title": "September \"you\" review is here ",
+      "subtitle": "Have you watched yours yet? 👀",
+      "categories": ["58228956"],
+      "imageUrl": "https://www.datocms-assets.com/79195/1693562666-luna-20.jpg?w=500",
+      "originalPublishDate": "2023-09-03T20:00:00+01:00",
+      "content": [
+        {
+          "content": [
+            { "text": "Another ", "type": "plain-text" },
+            { "text": "\"you\" review", "type": "bold-text" },
+            {
+              "text": " has landed on luna and we've made some improvements 🙌 now you can access all of yours via the app ",
+              "type": "plain-text"
+            },
+            { "text": "Home ", "type": "bold-text" },
+            {
+              "text": "to make it easier to look back over your personalised round-ups.",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "If you're new to \"you\" review, here's a reminder of what it is:",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "On the 3rd of each month, you’ll get a recap of your previous month on luna – a monthly ",
+              "type": "plain-text"
+            },
+            { "text": "“you” review", "type": "bold-text" },
+            {
+              "text": " 👀 It’ll give you personalised insights into your…",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "content": [
+                { "text": "Logged symptoms:", "type": "bold-text" },
+                {
+                  "text": " mood, skin, pain and bleeding/cycle details ❤️",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Activity on luna: ", "type": "bold-text" },
+                {
+                  "text": "time spent, content read/watched, fave categories + more📱",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "luna personality: ", "type": "bold-text" },
+                {
+                  "text": "what type of luna user you are (\"luna lover\" gets you 10 points!) – there's more on the personality badges linked below 🔗",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "bullet-list"
+        },
+        {
+          "content": [{ "text": "Why is this helpful?", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "luna’s big on tracking to understand your moods and triggers, but it can be hard to go back over each day of a logged month to figure out the patterns in your symptoms and mood 😖 And now, you don’t have to 🙅",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "This monthly feature will give you a recap of what you’ve been logging most to help you get a clearer sense of your health and well-being and take charge in the areas you need 💗",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "What are some examples of this?", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Let’s break it down a bit. We’ll use a couple of examples to help:",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "content": [
+                { "text": "Skin: ", "type": "bold-text" },
+                {
+                  "text": "if you’ve been logging your skin all month, this may change up as time goes on – some days you may log “oily” and on others “combination” ⚖️ Your monthly ",
+                  "type": "plain-text"
+                },
+                { "text": "“you” review ", "type": "bold-text" },
+                {
+                  "text": "will show you what’s been logged most of the time, and if it’s “oily” but you’ve been using “combination” skincare, it may be time to change up your products 🧴",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Mood: ", "type": "bold-text" },
+                {
+                  "text": "let’s say you’ve been feeling tired most of the time for the month, this recap will signal to you that it’s a good idea to prioritise your sleep hygiene and set yourself some goals to build healthy habits and improve it ✔️ – luna’s got lots of content on sleep to help you with this 😴",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "bullet-list"
+        },
+        {
+          "content": [
+            {
+              "text": "What can you do to get the most out of this feature?",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "content": [
+                { "text": "Turn on your notifications", "type": "bold-text" },
+                {
+                  "text": ": then you’ll be notified when it lands each month 🔔",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Keep logging: ", "type": "bold-text" },
+                {
+                  "text": "make sure your tracker is up to date and accurate – check what you’ve been logging in the past if needed, but also keep logging each day. We can only give you a ",
+                  "type": "plain-text"
+                },
+                { "text": "“you” review ", "type": "bold-text" },
+                {
+                  "text": "if you’ve been using the app 📱",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                {
+                  "text": "Read and watch luna’s content: ",
+                  "type": "bold-text"
+                },
+                {
+                  "text": "spend as much time in the app as you can, learning from the content in ",
+                  "type": "plain-text"
+                },
+                { "text": "Learn", "type": "bold-text" },
+                {
+                  "text": " that sparks your interest – points are awarded for super users 👀",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "bullet-list"
+        },
+        {
+          "content": [
+            { "text": "Hope you’re loving ", "type": "plain-text" },
+            { "text": "“you” review", "type": "bold-text" },
+            { "text": " as much as we are ❤️", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        }
+      ]
+    },
+    {
+      "id": "189019356",
+      "title": "Now challenges = points",
+      "subtitle": "You asked, luna listened 🙌",
+      "categories": ["58228956"],
+      "imageUrl": "https://www.datocms-assets.com/79195/1693563470-luna-169.jpg?w=500",
+      "originalPublishDate": "2023-09-04T20:00:00+01:00",
+      "content": [
+        {
+          "content": [
+            { "text": "You asked, luna listened:", "type": "bold-text" },
+            {
+              "text": " after getting lots of feedback from the community wanting points for each challenge, now you'll get 2 points for every challenge you complete (and you'll be backdated any you’ve completed so far, too) – thanks for all your messages about this 🔥 ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "There's also lots more planning going on behind the scenes to make games and challenges even better, so watch this space for more updates 👀",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "If you're new to luna, here's a recap on challenges:",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "🏡 Go to Home:", "type": "bold-text" },
+            {
+              "text": " you can find all the challenges on the homepage - both ones you've already completed and new ones ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "🌟 Pick your favourite challenge: ",
+              "type": "bold-text"
+            },
+            {
+              "text": "there's lots of different challenges to choose from. Click whichever one you want to try out and keep your notifications on to be first to try new ones that drop",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "📚 Learn ahead of the challenge: ",
+              "type": "bold-text"
+            },
+            {
+              "text": "linked to the bottom of each challenge is the related topic for you to ",
+              "type": "plain-text"
+            },
+            { "text": "Learn ", "type": "bold-text" },
+            {
+              "text": "about 🔗 All of the answers to the challenge questions will be hidden within these linked articles and videos",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "🤞 Play: ", "type": "bold-text" },
+            {
+              "text": "all that's left is to start the challenge! There are 9 multiple choice questions to answer. Once you answer a question correctly you can move onto the next one. And if you get it wrong: sorry! 🙅🏻‍♀️ You'll have to wait 24 hours before you can answer it again",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "🏆 Win", "type": "bold-text" },
+            {
+              "text": ": answer all 9 questions correctly to reveal the badge behind it and win 2 points for every challenge!",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [{ "text": "Good luck 🫶", "type": "plain-text" }],
+          "type": "paragraph"
+        }
+      ]
+    },
+    {
+      "id": "189020257",
+      "title": "September news",
+      "subtitle": "Back to school tips, luna's highlights + more ✨",
+      "categories": ["58228956"],
+      "imageUrl": "https://www.datocms-assets.com/79195/1693566746-mg_3115_edit.jpg?w=500",
+      "originalPublishDate": "2023-09-05T20:00:00+01:00",
+      "content": [
+        {
+          "content": [
+            {
+              "text": "Welcome to this month's luna newsletter ",
+              "type": "bold-text"
+            },
+            { "text": "💛", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "In this month's update we:", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "👀 Recap our August highlights ", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "💡 Give you some quick tips on a luna feature",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "🛍️ Spotlight a brand that can be found in luna's ",
+              "type": "plain-text"
+            },
+            { "text": "Shop", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "🦋 Recommend some content to help you with getting back to school",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "--------------------------------------------",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "Our August highlights...", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "📸 We had the most amazing ", "type": "plain-text" },
+            { "text": "photoshoot", "type": "bold-text" },
+            {
+              "text": " with the luna community – from picnics to sleepovers and glowy summer vibes, ",
+              "type": "plain-text"
+            },
+            {
+              "text": "we captured so many amazing pictures",
+              "type": "bold-text"
+            },
+            {
+              "text": " which you'll start seeing on the app from now",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "🎉 Just a week after the photoshoot, luna held another event with ",
+              "type": "plain-text"
+            },
+            { "text": "silver badge holders", "type": "bold-text" },
+            { "text": ", ", "type": "plain-text" },
+            { "text": "super users", "type": "bold-text" },
+            { "text": " and ", "type": "plain-text" },
+            { "text": "long-time luna fans", "type": "bold-text" },
+            {
+              "text": ". We learnt loads about what's working in the app and where we need to improve things – from ",
+              "type": "plain-text"
+            },
+            { "text": "games", "type": "bold-text" },
+            { "text": ", to ", "type": "plain-text" },
+            { "text": "Ask luna responses", "type": "bold-text" },
+            {
+              "text": " and so so much more. We'll be taking these ideas and insights into ",
+              "type": "plain-text"
+            },
+            { "text": "luna 2.0", "type": "bold-text" },
+            {
+              "text": " and can't wait to share the changes with you all soon! You can also join the luna testers Instagram if you'd like to get more involved, see exclusive previews and vote on the final designs – ",
+              "type": "plain-text"
+            },
+            { "text": "@wearelunaapp_testers", "type": "bold-text" },
+            { "text": " ", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "💝 We had another ", "type": "plain-text" },
+            { "text": "giveaway", "type": "bold-text" },
+            {
+              "text": " where 5 lucky luna users have won a ",
+              "type": "plain-text"
+            },
+            {
+              "text": "Dermalogica body clarifying spray",
+              "type": "bold-text"
+            },
+            { "text": " and a ", "type": "plain-text" },
+            { "text": "LIMITED edition pink tote bag", "type": "bold-text" },
+            {
+              "text": ". Plus, everyone who entered got ",
+              "type": "plain-text"
+            },
+            { "text": "5 luna points", "type": "bold-text" },
+            { "text": " just for getting involved", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "📝 ", "type": "plain-text" },
+            { "text": "Quick summaries", "type": "bold-text" },
+            {
+              "text": " are now live in app! Within each article, you'll now find a shorter breakdown of what's in the piece, to help you if you need a reminder of what you've read, or to get to grips with the key points quicker 👀",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "--------------------------------------------",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "💡 luna's quick tips 💡", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Did you know you can set yourself reminders with luna? Whether that’s to change your period product, do your homework, or drink some water – you customise it, we'll send you a notification when the time comes 🔔 Here's how you do it...",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "--------------------------------------------",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Shop spotlight: Once Upon A Tuesday",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "About the brand: \"The stylish way to stay organised\" – that's Once Upon a Tuesday. The brand's range of journals, notebooks, calendars, and habit trackers are the perfect tools to keep you motivated for school. Plus, they're all made from 100% recycled paper!",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "You can shop them in the links at the end of this article 😊",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "--------------------------------------------",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "And finally: ", "type": "plain-text" },
+            {
+              "text": "get the most out of a new school year with luna",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Heading back to school after a summer off is never easy 😔 and luna's experts have lots of questions about dealing with anxiety around it, getting motivated, managing the pressures and making friends. So luna's linked content around all of these topics below, to help you navigate this in the best way possible 🙌🦋",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Remember: you're all in the same boat, and we're always here to help 💛",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "--------------------------------------------",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Thanks for reading – let us know in the feedback box if you like getting luna news in app, and we'll look to make it a regular feature!",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ]
+    },
+    {
+      "id": "191087142",
+      "title": "Navigating periods at school",
+      "subtitle": " Tips, tricks and your questions answered 💯",
+      "categories": ["4636813", "4636814"],
+      "imageUrl": "https://www.datocms-assets.com/79195/1694096694-luna-69.jpg?w=500",
+      "originalPublishDate": "2023-09-07T20:00:00+01:00",
+      "content": [
+        {
+          "content": [{ "text": "Quick summary ✨", "type": "bold-text" }],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "1️⃣", "type": "plain-text" },
+            { "text": " Unexpected period:", "type": "bold-text" },
+            {
+              "text": " if caught off guard without products, ask a friend, teacher, or school nurse for help. If not, use rolled-up toilet paper as a makeshift pad until you can get a product",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "2️⃣ ", "type": "plain-text" },
+            { "text": "Being prepared: ", "type": "bold-text" },
+            {
+              "text": "carry a period kit with pads, tampons, spare underwear and painkillers",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "3️⃣ ", "type": "plain-text" },
+            { "text": "School trips: ", "type": "bold-text" },
+            {
+              "text": "customise your period kit for trips, adding things like wipes and sanitisers. Consider longer-lasting products like menstrual cups if changing will be tough",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "4️⃣", "type": "plain-text" },
+            { "text": " Managing cramps:", "type": "bold-text" },
+            {
+              "text": " ease cramps with painkillers (with adult permission if under 16), comfy trousers, heat pads, and fibre-rich snacks",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "5️⃣ ", "type": "plain-text" },
+            { "text": "Concerns about smell: ", "type": "bold-text" },
+            {
+              "text": "it’s unlikely someone can smell your period, but showering before school and changing period products can help",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "6️⃣", "type": "plain-text" },
+            { "text": " Preventing leakage:", "type": "bold-text" },
+            {
+              "text": " double up or change pads/tampons regularly",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            { "text": "7️⃣", "type": "plain-text" },
+            { "text": " Unwrapping products quietly:", "type": "bold-text" },
+            {
+              "text": " the cough or flush method both work well, though there really isn’t anything to be embarrassed about!",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "--------------------------------------------",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "luna’s experts know all too well how much stress there is around having or getting your period at school! So here you’ll find all the big questions, answered 💖 ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "What happens if I get my period unexpectedly without products?",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "In this situation, you have two options. The first best thing you can do is ask a friend who’s got their period, a teacher or a school nurse if they have one you can use 🗣 If that’s not an option, you can roll up some toilet paper to use as a makeshift pad until you can ask later.",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "How can I be more prepared for starting my period in school?",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Some people choose to carry a period kit around with them so they’re prepared at all times 🫡 You can use a large-ish pencil case or makeup bag to carry this 😊 This kit often includes: ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "content": [{ "text": "Pads", "type": "plain-text" }],
+              "type": "paragraph"
+            },
+            {
+              "content": [{ "text": "Tampons", "type": "plain-text" }],
+              "type": "paragraph"
+            },
+            {
+              "content": [{ "text": "Panty liners", "type": "plain-text" }],
+              "type": "paragraph"
+            },
+            {
+              "content": [{ "text": "Spare underwear", "type": "plain-text" }],
+              "type": "paragraph"
+            },
+            {
+              "content": [{ "text": "Pain killers ", "type": "plain-text" }],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                {
+                  "text": "Anything else that makes you more comfortable, e.g. heat pads, hand sanitiser, wipes",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "bullet-list"
+        },
+        {
+          "content": [
+            {
+              "text": "It’s a good idea to carry 2-3 pads/tampons in case you end up out of the house for a while before you can go home 💡 ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "How do I deal with a period on a school trip?",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Just like before, period kits are super handy for school trips! Depending on what you’re doing, you might not have access to all the same things as you would in school, though ✨ ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "For example, if you’re camping, you might benefit more from having things like wipes and sanitiser. Another great thing you can take with you into the wilderness is small, scented bin bags in case there aren’t any bins you can use close by 🏕",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Lastly, some people prefer to try longer-lasting products, like a menstrual cup. These are great because they don’t need to be changed multiple times per day and generally shouldn’t allow any leakage 💖",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "How can I feel more comfortable having cramps at school?",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Cramps at school can be really tough – in fact, luna users vote it as the number 1 reason for why having a period at school is so difficult! ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Here are luna’s tips on what to carry to help out with the pain: ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "content": [
+                { "text": "Pain killers", "type": "bold-text" },
+                {
+                  "text": ": paracetamol and ibuprofen are two over-the-counter painkillers you can keep with you for if you need ",
+                  "type": "plain-text"
+                },
+                { "text": "💊", "type": "bold-text" },
+                {
+                  "text": "– just make sure you follow the instructions if you’re going to take them! If you’re under 16, you’ll need an adult to get them for you 💡",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Loose trousers", "type": "bold-text" },
+                {
+                  "text": ": often, with bloating, it’s a good idea to wear loose trousers ",
+                  "type": "plain-text"
+                },
+                { "text": "👖", "type": "bold-text" },
+                {
+                  "text": " This also makes it less likely a pad will be noticeable, and if you leak it won’t run down your leg 🙌🏽",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Heat pad", "type": "bold-text" },
+                {
+                  "text": ": hot water bottles and hot baths are great, but when you’re at school and can’t have either – a heat pad is a great alternative ",
+                  "type": "plain-text"
+                },
+                { "text": "🔥", "type": "bold-text" }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Snacks with fibre", "type": "bold-text" },
+                {
+                  "text": ": bananas and fibre-bars are great to have as they help with pain and give you energy to continue on with your day ",
+                  "type": "plain-text"
+                },
+                { "text": "🍌", "type": "bold-text" }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "bullet-list"
+        },
+        {
+          "content": [
+            {
+              "text": "I’m worried people can smell my period, is this possible?",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Periods do have a smell 👃 but it’s different for every menstruator and it’s generally not very strong 🙅‍♀️ It might smell a bit like blood or like metal – this is because of the iron and bacteria that will be present as the blood leaves your vagina.",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "It’s unlikely that people will smell it, but you can make the odds even smaller by following luna’s period hygiene advice 💯The best ways to make sure people don’t smell your period are…",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "content": [
+                {
+                  "text": "regularly have showers – have one the morning before school to start the day super fresh, if you can 🚿 ",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                {
+                  "text": "change your period products regularly – if it’s a pad, it can smell a little stronger more quickly as the blood is being absorbed into a product that sits outside of your vagina, unlike a tampon which sits inside; so it’s best to change these more frequently (every few hours)⏳",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "bullet-list"
+        },
+        {
+          "content": [
+            { "text": "How do I stop my period leaking?", "type": "bold-text" }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "There are a few different reasons why you might be leaking, so here’s some tips:",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "content": [
+                { "text": "Position of product: ", "type": "bold-text" },
+                {
+                  "text": "sometimes a pad can move around if you’re sat down or during a sports lesson 🏋️ In this case, make sure you’re wearing secure, tight underwear to keep the pad in place, and consider doubling up with another period product like a tampon or period pants 💕",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "content": [
+                { "text": "Not changing the product: ", "type": "bold-text" },
+                {
+                  "text": "if a period product is full – whether that’s a tampon, pad or pants – it will start leaking. It’s best to change a pad every few hours 🔁and a tampon every 4-8 hours depending on what size you’re using and your flow heaviness",
+                  "type": "plain-text"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "bullet-list"
+        },
+        {
+          "content": [
+            {
+              "text": "How can I change a pad in the toilets quietly?",
+              "type": "bold-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "Remember, there’s absolutely no shame in having your period and changing your products in the bathroom 🙅‍♀️ - so don’t worry about the rustling sound that comes with opening a tampon or a pad ✨ ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "However, if you want to, you can cough over the noise, or unwrap it at the same time as flushing the toilet to mask the sound – although this is totally not necessary and only if you are very uncomfortable 🌻 ",
+              "type": "plain-text"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "content": [
+            {
+              "text": "luna hopes this has helped you feel prepared for having your period at school 💖 Remember, if you ever have any questions or worries, you can ",
+              "type": "plain-text"
+            },
+            { "text": "Ask", "type": "bold-text" },
+            { "text": " luna’s experts ❤️", "type": "plain-text" }
+          ],
+          "type": "paragraph"
+        }
+      ]
+    }
+  ]
+}
